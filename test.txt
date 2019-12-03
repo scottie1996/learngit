@@ -1,4 +1,8 @@
 V5
 creat a new branch
 add
+<<<<<<< HEAD
 this is master
+=======
+this is future 1
+>>>>>>> feature1
